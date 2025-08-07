@@ -59,7 +59,7 @@ OGAWA Team
 1. Open **Outlook**
 2. Press `ALT + F11` to open the **VBA Editor**
 3. Go to `File > Import File…`
-4. Select the `AutoReplyOrderMacro.bas` file
+4. Select the `outlook-auto-draft-reply.bas` file
 5. Save and close the editor
 
 ✅ Now your macro will trigger automatically on new order emails.
