@@ -73,8 +73,3 @@ OGAWA Team
 - Make sure macro security settings allow trusted code execution
 
 ---
-
-## 👨‍💻 Author
-
-Created by **Steven Soo**  
-For automation and e-commerce operational efficiency.
